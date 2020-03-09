@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 4b1581b980e228c42a6bae9dcced581d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7752904231166257905
+    second: Game Text_0
+  - first:
+      213: 3836596668048087970
+    second: Game Text_1
+  - first:
+      213: 4723931365667006083
+    second: Game Text_2
+  - first:
+      213: 5194928131992946345
+    second: Game Text_3
+  - first:
+      213: -3216814986459037286
+    second: Game Text_4
+  - first:
+      213: -1524481351947427577
+    second: Game Text_5
+  - first:
+      213: 7291261460474813322
+    second: Game Text_6
+  - first:
+      213: -1287581917617922221
+    second: Game Text_7
+  - first:
+      213: 4693142331123813323
+    second: Game Text_8
+  - first:
+      213: 3022888100378636298
+    second: Game Text_9
+  - first:
+      213: 8852273856947039921
+    second: Game Text_10
+  - first:
+      213: -4876240987413058958
+    second: Game Text_11
+  - first:
+      213: -9036829874907394446
+    second: Game Text_12
+  - first:
+      213: -2616878745374764613
+    second: Game Text_13
+  - first:
+      213: 8732312450635601942
+    second: Game Text_14
+  - first:
+      213: 5129589684533974730
+    second: Game Text_15
+  - first:
+      213: 3123095885165442122
+    second: Game Text_16
+  - first:
+      213: 5269552688369897935
+    second: Game Text_17
+  - first:
+      213: -1049190216848732573
+    second: Game Text_18
+  - first:
+      213: 405133028575299636
+    second: Game Text_19
+  - first:
+      213: 1599546662763870548
+    second: Game Text_20
+  - first:
+      213: 6764060557036150545
+    second: Game Text_21
+  - first:
+      213: 8708511387001438468
+    second: Game Text_22
+  - first:
+      213: 8235840936270902703
+    second: Game Text_23
+  - first:
+      213: -1033975868378239339
+    second: Game Text_24
+  - first:
+      213: 4594179661686144935
+    second: Game Text_25
+  - first:
+      213: 8133801489734619214
+    second: Game Text_26
+  - first:
+      213: -2236100366614997479
+    second: Game Text_27
+  - first:
+      213: -336357973571584085
+    second: Game Text_28
+  - first:
+      213: 8496155053167066863
+    second: Game Text_29
+  - first:
+      213: -6928572618005037503
+    second: Game Text_30
+  - first:
+      213: -7931480586918241785
+    second: Game Text_31
+  - first:
+      213: -5754724812848940056
+    second: Game Text_32
+  - first:
+      213: -4983191134211526831
+    second: Game Text_33
+  - first:
+      213: -4677057373266929451
+    second: Game Text_34
+  - first:
+      213: -1791753906075980163
+    second: Game Text_35
+  - first:
+      213: -6493556671826219056
+    second: Game Text_36
+  - first:
+      213: -8795931797740950488
+    second: Game Text_37
+  - first:
+      213: 4659675892803397959
+    second: Game Text_38
+  - first:
+      213: -183728838077671475
+    second: Game Text_39
+  - first:
+      213: 6637869115037514236
+    second: Game Text_40
+  - first:
+      213: 4942537095390550176
+    second: Game Text_41
+  - first:
+      213: -7267302393909535698
+    second: Game Text_42
+  - first:
+      213: 6248107170121653983
+    second: Game Text_43
+  - first:
+      213: 4527131954265543706
+    second: Game Text_44
+  - first:
+      213: -7050956214469292466
+    second: Game Text_45
+  - first:
+      213: -2940798372326945738
+    second: Game Text_46
+  - first:
+      213: 7247910737834448709
+    second: Game Text_47
+  - first:
+      213: -5872026225465545360
+    second: Game Text_48
+  - first:
+      213: 6514492235490096543
+    second: Game Text_49
+  - first:
+      213: -8293675918377067419
+    second: Game Text_50
+  - first:
+      213: 917977663439008109
+    second: Game Text_51
+  - first:
+      213: 8155374122283398260
+    second: Game Text_52
+  - first:
+      213: -1738452703821359762
+    second: Game Text_53
+  - first:
+      213: -5179835567428716340
+    second: Game Text_54
+  - first:
+      213: 1744432713859774598
+    second: Game Text_55
+  - first:
+      213: 8855006918889600781
+    second: Game Text_56
+  - first:
+      213: 6534567315756306886
+    second: Game Text_57
+  - first:
+      213: -3509109869307453153
+    second: Game Text_58
+  - first:
+      213: -5103976818245433453
+    second: Game Text_59
+  - first:
+      213: -7408462436526127339
+    second: Game Text_60
+  - first:
+      213: -7386670899864090218
+    second: Game Text_61
+  - first:
+      213: 8015643321715814947
+    second: Game Text_62
+  - first:
+      213: 5009829327780916946
+    second: Game Text_63
+  - first:
+      213: -8809744146945076229
+    second: Game Text_64
+  - first:
+      213: -1451663129615268827
+    second: Game Text_65
+  - first:
+      213: -2052974516532416214
+    second: Game Text_66
+  - first:
+      213: 3829670813520638928
+    second: Game Text_67
+  - first:
+      213: 7268107478051715970
+    second: Game Text_68
+  - first:
+      213: 8729868340858012867
+    second: Game Text_69
+  - first:
+      213: 7228079188398404438
+    second: Game Text_70
+  - first:
+      213: 3596926837902645516
+    second: Game Text_71
+  - first:
+      213: 6541510928034416473
+    second: Game Text_72
+  - first:
+      213: 2023455371541742974
+    second: Game Text_73
+  - first:
+      213: -6132493192315285010
+    second: Game Text_74
+  - first:
+      213: -1577108344575893311
+    second: Game Text_75
+  - first:
+      213: -5062469853060779148
+    second: Game Text_76
+  - first:
+      213: 1209975983542592236
+    second: Game Text_77
+  - first:
+      213: -1568173732307142849
+    second: Game Text_78
+  - first:
+      213: 7020895879253957299
+    second: Game Text_79
+  - first:
+      213: 938784936463604220
+    second: Game Text_80
+  - first:
+      213: -4028803040904850641
+    second: Game Text_81
+  - first:
+      213: -8194755541102827895
+    second: Game Text_82
+  - first:
+      213: -8268595438067498719
+    second: Game Text_83
+  - first:
+      213: 7081158214726131303
+    second: Game Text_84
+  - first:
+      213: 487992947251062917
+    second: Game Text_85
+  - first:
+      213: -4394171615983473036
+    second: Game Text_86
+  - first:
+      213: 2075994569026225453
+    second: Game Text_87
+  - first:
+      213: -3132952245720344653
+    second: Game Text_88
+  - first:
+      213: 1076999327260373435
+    second: Game Text_89
+  - first:
+      213: 422761926305602041
+    second: Game Text_90
+  - first:
+      213: 1290527861399512219
+    second: Game Text_91
+  - first:
+      213: -3178637271717340331
+    second: Game Text_92
+  - first:
+      213: 981681770946713622
+    second: Game Text_93
+  - first:
+      213: -9171659375908370939
+    second: Game Text_94
+  - first:
+      213: -3743743520106607850
+    second: Game Text_95
+  - first:
+      213: -1286267747995629594
+    second: Game Text_96
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Text_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470.5714
+        width: 732
+        height: 78.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf249de3c855cb4fb50693510e0ddfb
+      internalID: -7752904231166257905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Text_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392.5714
+        width: 732
+        height: 78.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770082b1360fe714784ff00ec442bd04
+      internalID: 3836596668048087970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Text_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314.5714
+        width: 732
+        height: 78.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db70c4cbd34a4343b0fb10d32c96bb7
+      internalID: 4723931365667006083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Text_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236.57143
+        width: 732
+        height: 78.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c7a6263300cb341898895a26e033a3
+      internalID: 5194928131992946345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Text_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 732
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3287efdc4c0d4ec4fa45fed8b8c01fab
+      internalID: -3216814986459037286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Text_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 732
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 12, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5e24b437f3307409eb3789db7db41e
+      internalID: -1524481351947427577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Text_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 732
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a7894df6baa9248b4bddc4c75e9b20
+      internalID: 7291261460474813322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
