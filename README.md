@@ -1,4 +1,4 @@
-#<h1> UnderWorld Fox <h1>
+#<h1> UnderWorld Fox
 ![Title](/image.png)
 
 This project is a more experienced and polished piece of work which was used for the submission of my degree dissertation.
